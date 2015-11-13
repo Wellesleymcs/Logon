@@ -1,2 +1,3 @@
-username
-passwordabase
+"username":
+"password":
+"email":
